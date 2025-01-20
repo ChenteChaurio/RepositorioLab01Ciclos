@@ -19,4 +19,9 @@ Pasos
 ![alt text](assets/paso2.png)
 12. Configurar el Git local con el correo de la Universidad.
 ![alt text](assets/correo.png)
+![alt text](assets/correo2.png)
 13. Subir los cambios.
+14. Owner Vicente Garzon Rios Collaborator Daniel Alejandro Diaz.
+15. Agregando al colaborador con permisos.
+![alt text](assets/ft.png)
+
