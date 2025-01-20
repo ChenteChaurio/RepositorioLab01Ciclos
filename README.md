@@ -1,3 +1,7 @@
+INTEGRANTES
+Vicente Garzon Rios
+Daniel Alejandro Diaz
+
 Pasos
 1. Abrir el cmd.
 2. Crear la carpeta que sera mi repositorio con mkdir.
@@ -21,7 +25,6 @@ Pasos
 ![alt text](assets/correo.png)
 ![alt text](assets/correo2.png)
 13. Subir los cambios.
-14. Owner Vicente Garzon Rios Collaborator Daniel Alejandro Diaz.
-15. Agregando al colaborador con permisos.
+14. Agregando al colaborador con permisos.
 ![alt text](assets/ft.png)
 
