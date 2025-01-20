@@ -29,3 +29,5 @@ Pasos
 ![alt text](assets/ft.png)
 
 Modificado por Daniel
+
+Modificado por la cabra
