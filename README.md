@@ -12,7 +12,7 @@ Pasos
 9. Crear el repositorio en Git
 ![Texto alternativo](assets/CrearyAgregarREADME.png)
 10. Configurar el repositorio local con el remoto.
-![alt text](Proceso1.png)
-![alt text](Proceso2.png)
+![alt text](assets/Proceso1.png)
+![alt text](assets/Proceso2.png)
 
 
