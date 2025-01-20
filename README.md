@@ -28,3 +28,4 @@ Pasos
 14. Agregando al colaborador con permisos.
 ![alt text](assets/ft.png)
 
+Modificado por la cabra
