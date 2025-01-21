@@ -27,7 +27,8 @@ Pasos
 13. Subir los cambios.
 14. Agregando al colaborador con permisos.
 ![alt text](assets/ft.png)
-
-Modificado por Daniel
-
-Modificado por la cabra
+15. Se intento subir un cambio al mismo tiempo pero hubo un conflicto.
+![alt text](assets/conflicto.png)
+16. Se resolvio el conflicto usando VS code.
+![alt text](assets/conflicto2.png)
+![alt text](assets/conflicto3.png)
