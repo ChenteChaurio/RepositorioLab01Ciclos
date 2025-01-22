@@ -1,14 +1,14 @@
-INTEGRANTES  
+**INTEGRANTES**  
 Vicente Garzon Rios.  
 Daniel Alejandro Diaz.
 
-PREGUNTAS  
+**PREGUNTAS**  
 2.6. Al intentar subir un cambio al tiempo se presento un conflicto, en donde a uno si le dejo subir sus cambios mientras que al otro no lo dejo.
 ![alt text](assets/conflicto.png)
 3.1. No existe una forma de evitar completamente los conflictos, pero sí de minimizarlos mediante el uso de ramas bien definidas, sincronizando frecuentemente con la rama principal, realizando commits claros y pequeños, y coordinando con el equipo de trabajo. Además, usar herramientas de revisión como los pull requests ayuda a detectar problemas antes de fusionar las ramas.
 3.2. Un Pull Request es una solicitud para fusionar un conjunto de cambios de una rama a otra en un repositorio de código. Generalmente, esta solicitud se realiza cuando un desarrollador quiere integrar sus cambios en la rama principal de un proyecto.
 
-PASOS  
+**PASOS**  
 *1* Abrir el cmd.
 *2* Crear la carpeta que sera mi repositorio con mkdir.
 ![Texto alternativo](assets/RepositorioPc.png)
