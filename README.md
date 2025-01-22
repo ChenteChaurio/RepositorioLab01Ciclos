@@ -46,10 +46,10 @@ Daniel Alejandro Diaz.
 ![alt text](assets/ramaDaniel2.png)
 19. Cada uno hace un pull request a la rama master.
 ![alt text](assets/PR-daniel.png)
-![alt text](assets/PR-vicente.png)
+![alt text](assets/PR-vicente.jpg)
 20. Mezclar los cambios a la rama master a traves de PR.
 ![alt text](assets/PR-aceptado1.png)
-![alt text](assets/PR-aceptado3.png)
+![alt text](assets/PR-aceptado3.jpg)
 
 
 
