@@ -37,3 +37,5 @@ PASOS
 16. Se resolvio el conflicto usando VS code.
 ![alt text](assets/conflicto2.png)
 ![alt text](assets/conflicto3.png)
+17. Crear ambas ramas.
+![alt text](assets/rama1.png)
