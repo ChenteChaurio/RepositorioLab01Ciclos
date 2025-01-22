@@ -2,6 +2,10 @@ INTEGRANTES
 Vicente Garzon Rios
 Daniel Alejandro Diaz
 
+PREGUNTAS
+2.6. Al intentar subir un cambio al tiempo se presento un conflicto, en donde a uno si le dejo subir sus cambios mientras que al otro no lo dejo.
+![alt text](assets/conflicto.png)
+
 Pasos
 1. Abrir el cmd.
 2. Crear la carpeta que sera mi repositorio con mkdir.
