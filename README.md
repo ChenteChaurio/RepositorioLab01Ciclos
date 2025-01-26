@@ -44,12 +44,16 @@ Daniel Alejandro Diaz.
 18. Cada uno sube sus cambios a sus respectivas ramas.
 ![alt text](assets/ramaDaniel1.png)
 ![alt text](assets/ramaDaniel2.png)
+![alt text](assets/ramaVicente.png)
 19. Cada uno hace un pull request a la rama master.
 ![alt text](assets/PR-daniel.png)
 ![alt text](assets/PR-vicente.jpg)
 20. Mezclar los cambios a la rama master a traves de PR.
 ![alt text](assets/PR-aceptado1.png)
-![alt text](assets/PR-aceptado3.jpg)
-
+![alt text](assets/PR-aceptado2.png)
+21. Cambios generados para las ramas
+![alt text](assets/cambioPR1.png)
+![alt text](assets/cambioPR2.png)
+![alt text](assets/cambioPR3.png)
 
 
